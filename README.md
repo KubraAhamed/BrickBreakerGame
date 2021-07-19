@@ -1,5 +1,5 @@
 # BrickBreakerGame
-A 2D Game developed using java AWT,java Swing and Eveny Handling
+A 2D Game developed using Java AWT, Java Swing and Event Handling
 ## Features :
 ->The  player should be able to start the game in the terminal by pressing the ENTER key.
 
